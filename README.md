@@ -40,6 +40,6 @@ Muitas informações usadas foram tiradas do livro ao qual estudei Estruturas de
 **Estruturas de Dados e Seus Algoritmos - 3º edição | Markezon e Szwarcfiter**<br>
 Esse livro fala muito bem de Hash Tables e muitas outras estruturas de dados.
 
-Para compilação: Necessário .NET Framework ou .NET Core/5/6+ e NuGet/dependências do Windows.Forms.
+Para compilação e execução: Necessário .NET Framework ou .NET Core/5/6+ e NuGet/dependências do Windows.Forms.
 
 Obrigado pela leitura!
