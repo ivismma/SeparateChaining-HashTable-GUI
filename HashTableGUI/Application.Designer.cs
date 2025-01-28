@@ -485,7 +485,7 @@ namespace HashTableGUI {
             this.eventLog.Name = "eventLog";
             this.eventLog.ReadOnly = true;
             this.eventLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.eventLog.Size = new System.Drawing.Size(1231, 177);
+            this.eventLog.Size = new System.Drawing.Size(1237, 177);
             this.eventLog.TabIndex = 3;
             this.eventLog.TabStop = false;
             // 
